@@ -5,7 +5,7 @@ export const green = {
   500: '#00D110',
 };
 
-export const orange = {
+export const purple = {
   200: '#F95B3D',
   400: '#F95B3D',
   700: '#F95B3D',
