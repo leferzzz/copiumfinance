@@ -34,4 +34,4 @@ npx prettier --write .
 
 - [Our project documentation](https://docs.copium.finance/) will help you understand before start contributing
 - Join our [Discord](https://discord.gg/copiumfinance) community
-- Or if you are more of a [Telegram Zombie](https://discord.gg/copiumfinance) we have that too
+- Or if you are still stuck on that [Telegram grind](https://discord.gg/copiumfinance) we have that too!
