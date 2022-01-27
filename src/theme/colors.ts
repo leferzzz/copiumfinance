@@ -22,7 +22,7 @@ export const grey = {
   200: '#eeeeee',
   300: '#F95B3D',
   400: '#bdbdbd',
-  500: '#F95B3D',
+  500: '#9e9e9e',
   600: '#F95B3D',
   700: '#F95B3D',
   800: '#F95B3D',
