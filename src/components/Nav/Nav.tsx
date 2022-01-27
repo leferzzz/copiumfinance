@@ -97,7 +97,7 @@ const Nav = () => {
             <Typography variant="h6" color="inherit" noWrap className={classes.toolbarTitle}>
               {/* <a className={ classes.brandLink } href="/">Tomb Finance</a> */}
               <Link to="/" color="inherit" className={classes.brandLink}>
-                Tomb Finance
+                Copium Finance
               </Link>
             </Typography>
             <Box mr={5}>
@@ -105,22 +105,19 @@ const Nav = () => {
                 Home
               </Link>
               <Link color="textPrimary" to="/cemetery" className={classes.link}>
-                Cemetery
+                Salt Mine
               </Link>
               <Link color="textPrimary" to="/masonry" className={classes.link}>
-                Masonry
+                Ward
               </Link>
               <Link color="textPrimary" to="/pit" className={classes.link}>
-                Pit
+                Cbonds
               </Link>
               <Link color="textPrimary" to="/sbs" className={classes.link}>
-                SBS
+                Swap
               </Link>
               <Link color="textPrimary" to="/liquidity" className={classes.link}>
                 Liquidity
-              </Link>
-              <Link color="textPrimary" to="/regulations" className={classes.link}>
-                Regulations
               </Link>
               <a href="https://docs.tomb.finance" className={classes.link}>
                 Docs
