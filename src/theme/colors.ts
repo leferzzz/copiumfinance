@@ -12,9 +12,9 @@ export const orange = {
 };
 
 export const red = {
-  100: '#F95B3D',
-  200: '#F95B3D',
-  500: '#F95B3D',
+  100: '#C1C1FF',
+  200: '#7575FF',
+  500: '#9090FF',
 };
 
 export const grey = {
