@@ -137,7 +137,7 @@ const Nav = () => {
               <MenuIcon />
             </IconButton>
             <Typography variant="h6" noWrap>
-              Tomb Finance
+              Copium Finance
             </Typography>
 
             <Drawer
