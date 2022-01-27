@@ -104,16 +104,16 @@ const Nav = () => {
               <Link color="textPrimary" to="/" className={classes.link}>
                 Home
               </Link>
-              <Link color="textPrimary" to="/saltmine" className={classes.link}>
+              <Link color="textPrimary" to="/cemetery" className={classes.link}>
                 Salt Mine
               </Link>
-              <Link color="textPrimary" to="/ward" className={classes.link}>
+              <Link color="textPrimary" to="/masonry" className={classes.link}>
                 Ward
               </Link>
-              <Link color="textPrimary" to="/cbonds" className={classes.link}>
+              <Link color="textPrimary" to="/pit" className={classes.link}>
                 Cbonds
               </Link>
-              <Link color="textPrimary" to="/swap" className={classes.link}>
+              <Link color="textPrimary" to="/sbs" className={classes.link}>
                 Swap
               </Link>
               <Link color="textPrimary" to="/liquidity" className={classes.link}>
@@ -159,10 +159,10 @@ const Nav = () => {
               <Divider />
               <List>
                 <ListItemLink primary="Home" to="/" />
-                <ListItemLink primary="Salt Mine" to="/saltmine" />
-                <ListItemLink primary="Ward" to="/ward" />
-                <ListItemLink primary="CBonds" to="/cbonds" />
-                <ListItemLink primary="Swap" to="/swap" />
+                <ListItemLink primary="Cemetery" to="/cemetery" />
+                <ListItemLink primary="Masonry" to="/masonry" />
+                <ListItemLink primary="Pit" to="/pit" />
+                <ListItemLink primary="SBS" to="/sbs" />
                 <ListItemLink primary="Liquidity" to="/liquidity" />
                 <ListItem button component="a" href="https://docs.tomb.finance">
                   <ListItemText>Docs</ListItemText>
