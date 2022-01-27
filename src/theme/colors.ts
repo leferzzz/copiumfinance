@@ -6,15 +6,15 @@ export const green = {
 };
 
 export const orange = {
-  200: '#F95B3D',
-  400: '#F95B3D',
-  700: '#F95B3D',
+  200: '#bd7cfe',
+  400: '#ab47bc',
+  700: '#7b1fa2',
 };
 
 export const red = {
-  100: '#F95B3D',
-  200: '#93AAFF',
-  500: '#F95B3D',
+  100: '#C1C1FF',
+  200: '#7575FF',
+  500: '#9090FF',
 };
 
 export const grey = {
