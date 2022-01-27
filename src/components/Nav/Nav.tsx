@@ -159,12 +159,11 @@ const Nav = () => {
               <Divider />
               <List>
                 <ListItemLink primary="Home" to="/" />
-                <ListItemLink primary="Cemetery" to="/cemetery" />
-                <ListItemLink primary="Masonry" to="/masonry" />
-                <ListItemLink primary="Pit" to="/pit" />
-                <ListItemLink primary="SBS" to="/sbs" />
+                <ListItemLink primary="Salt Mine" to="/saltmine" />
+                <ListItemLink primary="Ward" to="/ward" />
+                <ListItemLink primary="CBonds" to="/cbonds" />
+                <ListItemLink primary="Swap" to="/swap" />
                 <ListItemLink primary="Liquidity" to="/liquidity" />
-                <ListItemLink primary="Regulations" to="/regulations" />
                 <ListItem button component="a" href="https://docs.tomb.finance">
                   <ListItemText>Docs</ListItemText>
                 </ListItem>
