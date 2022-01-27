@@ -5,7 +5,7 @@ const theme = {
   color: {
     black,
     grey,
-    purple,
+    orange,
     primary: {
       light: red[200],
       main: red[500],
