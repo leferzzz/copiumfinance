@@ -2,7 +2,7 @@ export const white = '#FFF';
 export const black = '#000';
 
 export const green = {
-  500: '#00D110',
+  500: '#F95B3D',
 };
 
 export const orange = {
@@ -12,25 +12,25 @@ export const orange = {
 };
 
 export const red = {
-  100: '#C1C1FF',
-  200: '#7575FF',
-  500: '#9090FF',
+  100: '#F95B3D',
+  200: '#F95B3D',
+  500: '#F95B3D',
 };
 
 export const grey = {
-  100: '#f5f5f5',
-  200: '#eeeeee',
-  300: '#e0e0e0',
-  400: '#bdbdbd',
-  500: '#9e9e9e',
-  600: '#757575',
-  700: '#616161',
-  800: '#424242',
-  900: '#212121',
+  100: '#F95B3D',
+  200: '#F95B3D',
+  300: '#F95B3D',
+  400: '#F95B3D',
+  500: '#F95B3D',
+  600: '#F95B3D',
+  700: '#F95B3D',
+  800: '#F95B3D',
+  900: '#F95B3D',
 };
 
 export const bg = '#000000';
 
 export const teal = {
-  200: '#64ffda',
+  200: '#F95B3D',
 };
