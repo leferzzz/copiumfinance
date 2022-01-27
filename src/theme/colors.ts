@@ -6,9 +6,9 @@ export const green = {
 };
 
 export const orange = {
-  200: '#bd7cfe',
-  400: '#ab47bc',
-  700: '#7b1fa2',
+  200: '#F95B3D',
+  400: '#F95B3D',
+  700: '#F95B3D',
 };
 
 export const red = {
