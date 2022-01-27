@@ -20,7 +20,7 @@ export const red = {
 export const grey = {
   100: '#F95B3D',
   200: '#eeeeee',
-  300: '#F95B3D',
+  300: '#e0e0e0',
   400: '#F95B3D',
   500: '#F95B3D',
   600: '#F95B3D',
