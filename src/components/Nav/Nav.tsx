@@ -104,16 +104,16 @@ const Nav = () => {
               <Link color="textPrimary" to="/" className={classes.link}>
                 Home
               </Link>
-              <Link color="textPrimary" to="/cemetery" className={classes.link}>
+              <Link color="textPrimary" to="/saltmine" className={classes.link}>
                 Salt Mine
               </Link>
-              <Link color="textPrimary" to="/masonry" className={classes.link}>
+              <Link color="textPrimary" to="/ward" className={classes.link}>
                 Ward
               </Link>
-              <Link color="textPrimary" to="/pit" className={classes.link}>
+              <Link color="textPrimary" to="/cbonds" className={classes.link}>
                 Cbonds
               </Link>
-              <Link color="textPrimary" to="/sbs" className={classes.link}>
+              <Link color="textPrimary" to="/swap" className={classes.link}>
                 Swap
               </Link>
               <Link color="textPrimary" to="/liquidity" className={classes.link}>
