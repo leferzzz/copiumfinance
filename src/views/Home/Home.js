@@ -116,7 +116,7 @@ const Home = () => {
         tombLpZap.onZap(zappingToken, tokenName, amount);
         onDissmissTombZap();
       }}
-      tokenName={'TOMB-FTM-LP'}
+      tokenName={'SALT-FTM-LP'}
     />,
   );
 
@@ -128,7 +128,7 @@ const Home = () => {
         tshareLpZap.onZap(zappingToken, tokenName, amount);
         onDissmissTshareZap();
       }}
-      tokenName={'TSHARE-FTM-LP'}
+      tokenName={'CSALT-FTM-LP'}
     />,
   );
 
@@ -205,7 +205,7 @@ const Home = () => {
           </Card>
         </Grid>
 
-        {/* TOMB */}
+        {/* SALT */}
         <Grid item xs={12} sm={4}>
           <Card>
             <CardContent align="center" style={{ position: 'relative' }}>
@@ -244,7 +244,7 @@ const Home = () => {
           </Card>
         </Grid>
 
-        {/* TSHARE */}
+        {/* CSALT */}
         <Grid item xs={12} sm={4}>
           <Card>
             <CardContent align="center" style={{ position: 'relative' }}>
@@ -281,7 +281,7 @@ const Home = () => {
           </Card>
         </Grid>
 
-        {/* TBOND */}
+        {/* CBOND */}
         <Grid item xs={12} sm={4}>
           <Card>
             <CardContent align="center" style={{ position: 'relative' }}>
